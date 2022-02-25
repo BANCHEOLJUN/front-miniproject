@@ -40,15 +40,15 @@ footer {
     margin: 0 10px;
   }
 
-.Footer_project {
+.Footer__project {
     display: flex;
 }
 
-.Footer_team {
+.Footer__team {
     display: flex;
 }
 
-.Footer_team li {
+.Footer__team li {
     margin: 0 5px;
 }
 
